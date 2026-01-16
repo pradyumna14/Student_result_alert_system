@@ -1,6 +1,6 @@
 ## DBMS Lab
 
-### Group 4
+### Student Result Alert System
 
 #### FIrst experiement - Experiment 4
 
