@@ -1,4 +1,4 @@
-## DBMS Lab
+## DBMS(Database Management System) Lab
 
 ### Student Result Alert System
 
